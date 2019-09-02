@@ -2,6 +2,8 @@
 
 Somethings I like about CS193
 - helpful adivce!
+- not too stressful (yet)
+- the slides look nice
 
 ## Welcome to GitHub Pages
 
